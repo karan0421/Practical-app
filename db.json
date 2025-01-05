@@ -1,0 +1,18 @@
+{
+  "Users": [
+    {
+      "id": "df57",
+      "usename": "Karan",
+      "Email": "karan@123",
+      "Password": "karan@123",
+      "ConfirmPassword": "karan@123"
+    },
+    {
+      "id": "68ed",
+      "username": "karan_123",
+      "Email": "karan@123",
+      "Password": "karan@123",
+      "ConfirmPassword": "karan@123"
+    }
+  ]
+}
